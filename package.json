@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon src/index.js",        // Development with live reloading
-    "start": "node src/index.js",         // Start server in production mode
-    "build": "echo 'No build step needed!'" // Placeholder build step
+    "dev": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "norkart",
